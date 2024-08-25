@@ -30,13 +30,18 @@
     justify-content: start;
     
 }
+/*トップの左側のボタン*/
 .top_menu_left a{
     margin-right: 20px;
     color: black;
     text-decoration: none;
     margin-bottom: auto;
-    
 }
+/*トップの左側のボタンがhoverの時に色変えて下線付ける*/
+.top_menu_left a:hover{
+    text-decoration: underline;
+}
+
 .top_menu_wether{
     padding-right: 1em;
     border-right: 2px solid rgb(223, 223, 223);
