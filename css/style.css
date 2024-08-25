@@ -33,6 +33,7 @@
     text-decoration: none;
     margin-bottom: auto;
     transition: 0.5s;
+    
 }
 .top_menu_left a:hover{
     background-color: rgb(100, 100, 100);
