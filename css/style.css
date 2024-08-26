@@ -88,7 +88,7 @@ body{
 .main{
     margin: 0px;
     height:150vh;
-    background-color: #f0f0f0;
+    background-color: #fefefe;
 }
 /*下のほうのいろいろ書いてるやつ*/
 .submenu{
@@ -141,7 +141,7 @@ hr {
 .main_content_text{
     width: 50vw;
     height: 100vh;
-    background-color: aqua;
+
 }
 .main_text{
     display: flex;
