@@ -137,3 +137,22 @@ hr {
     left: -15vw;
     width: 100vw;
 }
+.maintab{
+    display: flex;
+    border: 1px solid rgb(187, 187, 187);
+    border-radius: 5px 5px 0px 0px;
+    border-bottom: 2px solid rgb(0,178,229);
+}
+.maintab a{
+    margin: 0px 0px 0px 0px;
+    padding: 5px 2em 5px 2em;
+    border-right: 2px solid rgb(187, 187, 187);
+}
+.main_content{
+}
+.news_big{
+    width: 40%;
+    height: 500px;
+    border-right: 2px solid rgb(187, 187, 187);
+    margin: 10px;
+}
