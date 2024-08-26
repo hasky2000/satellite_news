@@ -82,7 +82,8 @@ body{
     margin-left: 15vw;
     margin-right: 15vw;
     height: 100vh;
-    background-color: aqua;
+    display: flex;
+    flex-direction: column;
 }
 .main{
     margin: 0px;
@@ -136,4 +137,18 @@ hr {
     position: relative;
     left: -15vw;
     width: 100vw;
+}
+.main_content_text{
+    width: 50vw;
+    height: 100vh;
+    background-color: aqua;
+}
+.main_text{
+    display: flex;
+    flex-direction: row;
+}
+.main_text_img{
+    width: 50%;
+    height: 20vh;
+    object-fit: contain;
 }
